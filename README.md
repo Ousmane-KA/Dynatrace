@@ -2,7 +2,8 @@
 
 ---
 
-![image.png](attachment:6872da20-eb84-4fbe-85b2-de0cd263906a:image.png)
+<img width="3982" height="1828" alt="image" src="https://github.com/user-attachments/assets/0ef1efd1-eed4-4cc3-94c2-e6901289fd9c" />
+
 
 ---
 
@@ -85,7 +86,8 @@ Dynatrace est une plateforme **tout-en-un** qui permet de :
 - On choisit la zone ou on veut déployer la solution car on est dans le cas d’une solution SAAS
 - On se connecte avec nos information d’identification
 
-![image.png](attachment:7108c5ba-2588-4b02-a831-8e3bab83225d:image.png)
+<img width="1131" height="521" alt="image" src="https://github.com/user-attachments/assets/d4a8ad2c-5345-46aa-9a4b-41c7d59a1610" />
+
 
 ## 2 ) Exploitation de Dynatrace :
 
@@ -94,53 +96,65 @@ Dynatrace est une plateforme **tout-en-un** qui permet de :
 - On a une machine Virtual en local avec comme OS Debian 11
 - On se connecte sur notre Console Dynatrace  dans  **Discovery & Coverage**
 
-![image.png](attachment:3d3d3695-6ff6-4ee3-9d5b-6a41a023a887:image.png)
+<img width="1793" height="770" alt="image" src="https://github.com/user-attachments/assets/6ef682b1-6553-4c9a-bbee-e2c997b29b0e" />
+
 
 - On télécharge l’agent sur notre VM
 
-![image.png](attachment:56aaaff7-b2e8-4f71-89e7-e940b69b59de:image.png)
+<img width="1186" height="357" alt="image" src="https://github.com/user-attachments/assets/052d469e-6b45-4216-91b9-5212fc4033d8" />
+
 
 - On installe Dynatrace
 
-![image.png](attachment:30a9c8c4-94e5-4cd0-8923-f8a81dc22186:image.png)
+<img width="1191" height="351" alt="image" src="https://github.com/user-attachments/assets/c794668f-4f66-418b-a63f-eb795cffcb72" />
+
 
 ### b) Exploitation des application de Dynatrace :
 
-![image.png](attachment:5f1f0778-c868-4cbd-8e4f-c38db144199c:image.png)
+<img width="1233" height="816" alt="image" src="https://github.com/user-attachments/assets/ef00ae11-525a-4d14-9d68-3158dbe1e1c9" />
 
-![image.png](attachment:06495d6f-0674-48ea-85af-bc139c16979c:image.png)
+
+<img width="1239" height="819" alt="image" src="https://github.com/user-attachments/assets/5e862e85-43d4-499c-a6a5-96735dc3de25" />
+
 
 ### c) Utilisation de l’application Hosts de dynatrace
 
 - On va voir l’application Hosts qui permet d’avoir des information sur la machine
 
-![image.png](attachment:075a65bc-685c-4aea-8507-c40538d2d3cf:image.png)
+<img width="1870" height="761" alt="image" src="https://github.com/user-attachments/assets/b2f61a63-9c77-4675-8aed-40274d44666c" />
+
 
 - On peut avoir des information sur les métriques :
 
-![image.png](attachment:48bf911a-2e98-470d-9b22-8a611246ecf9:image.png)
+<img width="1755" height="697" alt="image" src="https://github.com/user-attachments/assets/5f474e57-80c3-4ec8-85d6-4ef05c51e36d" />
+
 
 ### d) Utilisation de l’appliction infrastructure & Operations
 
-![image.png](attachment:5701cfb1-5575-4fb2-8dd7-c674b765984d:image.png)
+<img width="1172" height="363" alt="image" src="https://github.com/user-attachments/assets/89a5a1a8-e194-4fad-bf5f-f78be2f387bc" />
 
-- Un Fonctionnalité qui permet d’avoir plus d’information sur les ressources :
 
-![image.png](attachment:38493408-dce9-4122-8673-c1813f522dbd:image.png)
+- Une Fonctionnalité qui permet d’avoir plus d’information sur les ressources :
 
-![image.png](attachment:f5988477-2c00-4ef8-9031-ff3ce59b8a60:image.png)
+<img width="1379" height="871" alt="image" src="https://github.com/user-attachments/assets/d08a5ef2-2f5e-46d8-88d5-a5557d83aaa3" />
+
+<img width="1698" height="807" alt="image" src="https://github.com/user-attachments/assets/594efcd4-3c25-44bf-867a-9eae9c900482" />
+
 
 ### e) On va faire un test avec l’application Front de dynatrace pour la gestion des application
 
 - On va déployer notre page HTML sur la VM
 
-![image.png](attachment:9b0017e9-67d0-477a-9f1a-1bd7535d8073:image.png)
+<img width="998" height="125" alt="image" src="https://github.com/user-attachments/assets/25fceb8e-cb9b-4010-942f-e60effa047be" />
 
-![image.png](attachment:2a93536c-5db5-4a2f-8315-cb1548071991:image.png)
+
+<img width="1435" height="482" alt="image" src="https://github.com/user-attachments/assets/ee1ee9e9-9cfc-4fd7-ad04-dff66aedfa35" />
+
 
 - On va voir  comment fonctionne l’application
 
-![image.png](attachment:4f603d04-4521-4682-aad5-d648e8170f27:image.png)
+<img width="1912" height="457" alt="image" src="https://github.com/user-attachments/assets/c2745c16-8ee5-4733-8d51-2accf40b50da" />
+
 
 Ce que permet l’application Front (Frontend dans Dynatrace) :
 
@@ -164,50 +178,47 @@ Analyse des temps de chargement par **ressource** (CDN, API externes).
 
 Segmentation : navigateur (Chrome, Firefox, Safari), OS (Windows, iOS, Android).
 
-![image.png](attachment:3b947011-a914-457a-af22-ea5d01acf70b:image.png)
+<img width="1720" height="740" alt="image" src="https://github.com/user-attachments/assets/f7600738-4248-43d1-a5e1-ba7b54d162f0" />
 
-![image.png](attachment:80689957-db7d-4add-8828-7e4731cd6a38:image.png)
+
+<img width="1699" height="810" alt="image" src="https://github.com/user-attachments/assets/dc719245-7ae5-4f11-8044-542f6e9665dc" />
+
 
 ### f) Utilisation de l’application métriques et data export pour la création de notre dashboard
 
 - On va sur l’application **metrics classic** pour voir le type de metrics qu’on veut visualiser
 
-![image.png](attachment:0abc09fa-5ca5-4bc1-97d6-2b70b5a25f74:image.png)
+<img width="1897" height="768" alt="image" src="https://github.com/user-attachments/assets/d4870c8e-98df-43d2-bce1-09e827944f7c" />
+
 
 On clique sur **create chart**
 
-![image.png](attachment:fa4cb58e-5a7a-451d-8de4-5b64fc2be523:image.png)
+<img width="1440" height="520" alt="image" src="https://github.com/user-attachments/assets/04929685-9cf7-4497-8435-55f8e995b0ae" />
+
 
 On tombe sur l’application **data Explorer** : 
 
-![image.png](attachment:b913d111-9436-4d58-a118-6da630d06ca8:image.png)
+<img width="1712" height="848" alt="image" src="https://github.com/user-attachments/assets/c31e06e1-61e8-4117-bd67-214e547b5f20" />
+
 
 **Remarque :** On peut le faire aussi depuis l’application data explorer ne pas passer par metrics classic
 
 On clique sur Pin to dashboard pour créer notre dashboard
 
-![image.png](attachment:6f84b00e-9975-4554-8b78-0f9a45de5ec7:image.png)
+<img width="1877" height="812" alt="image" src="https://github.com/user-attachments/assets/6dfb19db-a322-49e5-874e-955bffd2d547" />
 
-![image.png](attachment:295af8c5-fffd-486b-a9dc-c316f24d2267:image.png)
 
-![image.png](attachment:8ba1a34a-fde7-48c9-aced-b838d9a7f296:image.png)
+<img width="1592" height="692" alt="image" src="https://github.com/user-attachments/assets/6893fe2a-58f7-48eb-8b66-f9ff5e8f1ca9" />
+
+
+<img width="1597" height="805" alt="image" src="https://github.com/user-attachments/assets/82370b3e-a4ab-4cbd-a059-4c27d0d1f5e6" />
+
 
 - On peut voir le dashboard qu’on a crée dans l’application **Dashboard classic**
 
-![image.png](attachment:4aaf1ab9-50c3-4a84-bc31-b44a0a14f38e:image.png)
+<img width="1509" height="739" alt="image" src="https://github.com/user-attachments/assets/07558eb1-a2ff-44aa-82c7-01dd258d4a83" />
 
-**Remarque :** On peut avoir des informations sur les journaux de log : 
 
 ---
+---
 
-| **Catégorie** | **Exemples de journaux** | **Utilité principale** |
-| --- | --- | --- |
-| **Système d’exploitation** | - Linux : `/var/log/messages`, `/var/log/syslog`, `/var/log/secure`, `/var/log/dmesg`   - Windows : *System logs*, *Application logs*, *Security logs* (Event Viewer) | Suivi de l’état du système, démarrages, pannes, authentifications, sécurité |
-| **Middleware – Serveurs applicatifs** | - WebLogic : `AdminServer.log`, `ManagedServer.log`, `access.log`  - JBoss/WildFly : `server.log`  - Tomcat : `catalina.out`, `localhost.log`  - WebSphere : `SystemOut.log`, `SystemErr.log` | Suivi du fonctionnement des serveurs applicatifs, erreurs Java, transactions |
-| **Middleware – Serveurs web** | - Apache : `access_log`, `error_log`  - Nginx : `access.log`, `error.log` | Suivi du trafic, erreurs HTTP, indisponibilités |
-| **Middleware – Messagerie / ESB** | - Kafka : `server.log`, `controller.log`, `state-change.log`  - ActiveMQ : `activemq.log`  - IBM MQ : `AMQERR01.LOG`, `qmgrs/<QMGR_NAME>/errors/` | Suivi des échanges de messages, files d’attente, pertes ou blocages |
-| **Applicatifs** | - Logs applicatifs (via Log4j, Logback, etc.)  - Exceptions, transactions métier | Débogage et suivi des erreurs fonctionnelles ou exceptions |
-| **Sécurité** | - Logs d’authentification (SSH, RDP)  - Middleware : erreurs SSL/TLS, accès refusés  - Journaux centralisés SIEM (Splunk, ELK, Dynatrace Logs) | Détection d’intrusions, gestion des certificats, conformité |
-| **Performance / JVM** | - `gc.log` (Garbage Collector)  - Thread dumps  - Heap dumps | Diagnostic de performance, fuite mémoire, blocages applicatifs |
-
-**Exemple :**
